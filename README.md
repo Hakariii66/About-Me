@@ -1,7 +1,8 @@
 # About-Me
 
 **Web Developer | Pentester | Graphic Designer/Editor | Ai and Linux Ethusiast🔥🔥**
-Sedang menekuni Web Developer dan Pentester, lalu lanjut dasar desain grafis/editor video. Ai dan linux = ezzzz
+
+Hi, my name is Athaya Daffa W A.K.A Daffa, Dap, or Daf. Currently I am pursuing web development, cybersecurity as an amateur pentester (script kidde), and Linux distro.
 
 ---
 
@@ -13,3 +14,10 @@ Sedang menekuni Web Developer dan Pentester, lalu lanjut dasar desain grafis/edi
 - Parrot OS (7/10)
 - Arch Linux (9/10)
 - BlackArch Linux (6/10)
+
+## My favorite ai tools
+- Deepseek
+- Claude
+- ChatGPT
+- Grok
+- Perplexity
