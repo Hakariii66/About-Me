@@ -21,3 +21,8 @@ Hi, my name is Athaya Daffa W A.K.A Daffa, Dap, or Daf. Currently I am pursuing 
 - ChatGPT
 - Grok
 - Perplexity
+
+## Most used creative software
+- Davinci Resolve
+- Capcut
+- Affinity by Canva
